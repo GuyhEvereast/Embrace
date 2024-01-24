@@ -16,3 +16,4 @@ But we can have sensitive data in here:
 * US Bank Account Number: 0123456789
 * Email Address: john.doe@example.com
 * Phone Number: +1 (555) 123-4567
+* SSN: 146-79-1594
